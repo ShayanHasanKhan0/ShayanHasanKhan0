@@ -1,8 +1,8 @@
 ### <div align="center">Hi, I'm Shayan, a full-time full-stack developer 👨‍💻 and an aspiring computer scientist. Working as a software developer since 2018 🚀</div>  
   
-
-- ⚡ MEAN STACK DEVELOPER.  
+- ⚡ FLUTTER DEVELOPER.
   
+- ⚡ MEAN STACK DEVELOPER.  
 
 - ⚡ Fun fact: I use tabs over spaces  
   
