@@ -2,7 +2,7 @@
   
 - ⚡ FLUTTER DEVELOPER.
   
-- ⚡ MEAN STACK DEVELOPER.  
+- ⚡ MEAN/MERN STACK DEVELOPER.  
 
 - ⚡ Fun fact: I use tabs over spaces  
   
