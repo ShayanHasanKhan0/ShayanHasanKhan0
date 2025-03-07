@@ -1,4 +1,4 @@
-### <div align="center">Hi, I'm Shayan, a full-time full-stack web app developer, Mobile App Devleoper 👨‍💻 and an aspiring computer scientist. Working as a software developer since 2018 🚀</div>  
+### <div align="center">Hi, I'm Shayan, a full-time full-stack web app developer, Mobile App Devleoper 👨‍💻 Working as a software developer since 2018 🚀</div>  
   
 - ⚡ FLUTTER DEVELOPER.
   
