@@ -20,7 +20,7 @@ Building secure, modular systems for DeFi, NFTs, and decentralized governance.
 As a Smart Contract Developer, I architect and deploy EVM-based solutions using Solidity and Foundry, prioritizing security, gas efficiency, and upgradability. My work spans designing ERC-20/721/1155 standards, optimizing DeFi protocols (staking, AMMs, vaults), and integrating smart contracts with frontend dApps through Ethers.js and Web3.py.  
   
 
-**Core Competencies**  
+## Core Competencies  
   
 
 #### Smart Contracts:  
@@ -54,15 +54,6 @@ I partner with frontend teams and DevOps engineers to streamline dApp deployment
   
 
 <br/>    
-<table><tr><td valign="top" width="50%">
-
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
 
 <br/>  
 
