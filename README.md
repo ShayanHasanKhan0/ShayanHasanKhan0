@@ -1,16 +1,73 @@
-### <div align="center">Hi, I'm Shayan, a full-time full-stack web app developer, Mobile App Devleoper 👨‍💻 Working as a software developer since 2018 🚀</div>  
+## Hi, I'm Shayan Hasan Khan! 👋  
   
-- ⚡ FLUTTER DEVELOPER.
-  
-- ⚡ MEAN/MERN STACK DEVELOPER.  
 
-- ⚡ Fun fact: I use tabs over spaces  
+<a href="https://github.com/https://github.com/ShayanHasanKhan0" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/shayan-hasan-khan-5366191b7/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/13081751/shayan-hasan-khan" target="_blank">
+<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+</a>  
   
+
+
+
+### Blockchain Development Engineer | Smart Contract Specialist | Web3 Integration Expert | DeFi & NFT Developer | DAO Architect  
+Building secure, modular systems for DeFi, NFTs, and decentralized governance.
+
+As a Smart Contract Developer, I architect and deploy EVM-based solutions using Solidity and Foundry, prioritizing security, gas efficiency, and upgradability. My work spans designing ERC-20/721/1155 standards, optimizing DeFi protocols (staking, AMMs, vaults), and integrating smart contracts with frontend dApps through Ethers.js and Web3.py.  
+  
+
+**Core Competencies**  
+  
+
+#### Smart Contracts:  
+  
+
+Custom logic for DeFi (yield strategies, flash loans) and NFTs (dynamic metadata, royalty enforcement).  
+  
+
+#### Security & Testing:  
+  
+
+Foundry fuzz/invariant testing, Slither audits, and OpenZeppelin’s secure patterns to mitigate reentrancy, overflow, and frontrunning risks.  
+  
+
+#### Web3 Integration:  
+  
+
+Bridging on-chain logic with off-chain systems (Chainlink oracles, IPFS storage, cross-chain bridges).  
+  
+
+#### DAO Architecture:  
+  
+
+Governance frameworks (token-weighted voting, multisig treasuries) and proposal lifecycle automation.  
+  
+
+#### Collaborative Builder:  
+  
+
+I partner with frontend teams and DevOps engineers to streamline dApp deployments, ensuring smart contracts align with user experience and scalability goals. Let’s connect to discuss auditable code, MEV-resistant designs, or DAO tooling.  
+  
+
+<br/>    
+<table><tr><td valign="top" width="50%">
+
+
+
+</td><td valign="top" width="50%">
+
+
+
+</td></tr></table>  
 
 <br/>  
 
 
-## My Skill Set  
+## Languages and Tools  
 <table><tr><td valign="top" width="33%">
 
 ### Mobile App Development 
@@ -71,27 +128,16 @@
 <br/>  
 
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/ShayanHasanKhan0" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/shayan-hasan-khan-5366191b7/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://stackoverflow.com/users/13081751/shayan-hasan-khan" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-<!-- 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=ShayanHasanKhan0&show_icons=true&count_private=true&hide_border=true" align="left" />  
- -->
-<br/>  
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ShayanHasanKhan0&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShayanHasanKhan0&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
 
 <br/>  
 
@@ -99,12 +145,12 @@
 
 <br/>  
 
-<!-- <div align="center">
-<img src="https://komarev.com/ghpvc/?username=ShayanHasanKhan0&&style=flat-square" align="center" />
-</div>   -->
   
 
 <br/>  
 
 
 <br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
