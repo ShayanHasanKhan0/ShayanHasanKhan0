@@ -11,8 +11,13 @@
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
   
-
-
+## Lets connect / Hire me
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/13081751/shayan-hasan-khan" target="_blank">
+<img src="https://img.shields.io/badge/Upwork-73bb44?style=for-the-badge&logo=upwork&logoColor=black" />
+</a>  
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/13081751/shayan-hasan-khan" target="_blank">
+<img src="https://img.shields.io/badge/Fiverr-00b22d?style=for-the-badge&logo=fiverr&logoColor=black" />
+</a>  
 
 ### Blockchain Development Engineer | Smart Contract Specialist | Web3 Integration Expert | DeFi & NFT Developer | DAO Architect  
 Building secure, modular systems for DeFi, NFTs, and decentralized governance.
