@@ -9,10 +9,10 @@
 </a>  
   
 ## Lets connect / Hire me
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shayan-hasan-khan-5366191b7/" target="_blank">
+<a href="https://www.linkedin.com/in/shayan-hasan-khan-5366191b7/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/13081751/shayan-hasan-khan" target="_blank">
+<a href="https://www.upwork.com/freelancers/~01e54f09c4f2852728?mp_source=share" target="_blank">
 <img src="https://img.shields.io/badge/Upwork-73bb44?style=for-the-badge&logo=upwork&logoColor=black" />
 </a>  
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/13081751/shayan-hasan-khan" target="_blank">
