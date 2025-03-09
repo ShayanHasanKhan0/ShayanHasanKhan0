@@ -48,7 +48,7 @@ I partner with frontend teams and DevOps engineers to streamline dApp deployment
 
 <br/>
 
-### My expertise
+### Tools I use
 ## 1. Smart Contract Development  
 ### Core Stack:  
 1. **Foundry** (Forge, Cast, Anvil)  
