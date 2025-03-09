@@ -1,5 +1,4 @@
-## Hi, I'm Shayan Hasan Khan! 👋  
-  
+## Hi, I'm Shayan Hasan Khan! 👋
 
 <a href="https://github.com/https://github.com/ShayanHasanKhan0" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -17,55 +16,135 @@
 </a>  
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/13081751/shayan-hasan-khan" target="_blank">
 <img src="https://img.shields.io/badge/Fiverr-00b22d?style=for-the-badge&logo=fiverr&logoColor=black" />
-</a>  
+</a>
 
-### Blockchain Development Engineer | Smart Contract Specialist | Web3 Integration Expert | DeFi & NFT Developer | DAO Architect  
+### Blockchain Development Engineer | Smart Contract Specialist | Web3 Integration Expert | DeFi & NFT Developer | DAO Architect
+
 Building secure, modular systems for DeFi, NFTs, and decentralized governance.
 
-As a Smart Contract Developer, I architect and deploy EVM-based solutions using Solidity and Foundry, prioritizing security, gas efficiency, and upgradability. My work spans designing ERC-20/721/1155 standards, optimizing DeFi protocols (staking, AMMs, vaults), and integrating smart contracts with frontend dApps through Ethers.js and Web3.py.  
-  
+As a Smart Contract Developer, I architect and deploy EVM-based solutions using Solidity and Foundry, prioritizing security, gas efficiency, and upgradability. My work spans designing ERC-20/721/1155 standards, optimizing DeFi protocols (staking, AMMs, vaults), and integrating smart contracts with frontend dApps through Ethers.js and Web3.py.
 
-## Core Competencies  
-  
+## Core Competencies
 
-#### Smart Contracts:  
-  
+#### Smart Contracts:
 
-Custom logic for DeFi (yield strategies, flash loans) and NFTs (dynamic metadata, royalty enforcement).  
-  
+Custom logic for DeFi (yield strategies, flash loans) and NFTs (dynamic metadata, royalty enforcement).
 
-#### Security & Testing:  
-  
+#### Security & Testing:
 
-Foundry fuzz/invariant testing, Slither audits, and OpenZeppelin’s secure patterns to mitigate reentrancy, overflow, and frontrunning risks.  
-  
+Foundry fuzz/invariant testing, Slither audits, and OpenZeppelin’s secure patterns to mitigate reentrancy, overflow, and frontrunning risks.
 
-#### Web3 Integration:  
-  
+#### Web3 Integration:
 
-Bridging on-chain logic with off-chain systems (Chainlink oracles, IPFS storage, cross-chain bridges).  
-  
+Bridging on-chain logic with off-chain systems (Chainlink oracles, IPFS storage, cross-chain bridges).
 
-#### DAO Architecture:  
-  
+#### DAO Architecture:
 
-Governance frameworks (token-weighted voting, multisig treasuries) and proposal lifecycle automation.  
-  
+Governance frameworks (token-weighted voting, multisig treasuries) and proposal lifecycle automation.
 
-#### Collaborative Builder:  
-  
+#### Collaborative Builder:
 
-I partner with frontend teams and DevOps engineers to streamline dApp deployments, ensuring smart contracts align with user experience and scalability goals. Let’s connect to discuss auditable code, MEV-resistant designs, or DAO tooling.  
-  
+I partner with frontend teams and DevOps engineers to streamline dApp deployments, ensuring smart contracts align with user experience and scalability goals. Let’s connect to discuss auditable code, MEV-resistant designs, or DAO tooling.
 
-<br/>    
+<br/>
 
-<br/>  
+### My expertise
+## 1. Smart Contract Development  
+### Core Stack:  
+1. **Foundry** (Forge, Cast, Anvil)  
+2. **Solidity** (v0.8.x with assembly/Yul optimizations)  
+3. **OpenZeppelin Contracts** (ERC20, ERC721, custom extensions)  
+
+### Ecosystem Tools:  
+1. **Hardhat** (optional for plugins like `hardhat-deploy`)  
+2. **Remix IDE** (quick prototyping)  
+
+---
+
+## 2. Testing & Security  
+### Automation:  
+1. **Foundry/Forge** (unit tests, fuzzing, invariant testing)  
+2. **Foundry’s Gas Snapshots** (`forge snapshot`)  
+
+### Security Tools:  
+1. **Slither** (static analysis for vulnerabilities)  
+2. **Mythril** (symbolic execution for exploit detection)  
+3. **Echidna** (property-based fuzzing)  
+4. **Certora** (formal verification, if used)  
+
+---
+
+## 3. Deployment & DevOps  
+### Scripting:  
+1. **Foundry Scripts** (Deploy.s.sol for multi-chain deployments)  
+
+### CI/CD:  
+1. **GitHub Actions** (automated testing/deployment workflows)  
+2. **Docker** (containerization for reproducible environments)  
+
+### Infrastructure:  
+1. **Alchemy/Infura** (RPC node providers)  
+2. **AWS/GCP** (backend hosting, if applicable)  
+
+---
+
+## 4. Monitoring & Analytics  
+1. **Tenderly** (transaction debugging, gas profiling)  
+2. **Etherscan** (contract verification, explorer APIs)  
+3. **Dune Analytics** (SQL-based dashboards for on-chain metrics)  
+4. **Chainlink Keepers** (monitoring for automation)  
+
+---
+
+## 5. Frontend & Tooling  
+### dApp Frameworks:  
+1. **React/Next.js/Angular** (frontend UI)  
+2. **Ethers.js** (EVM interaction)  
+3. **Wagmi** (React hooks for Web3)  
+
+### Wallets:  
+1. **MetaMask SDK** (wallet integration)  
+2. **WalletConnect** (multi-chain support)  
+
+### Utilities:  
+1. **Graph Protocol** (subgraph indexing, if used)  
+2. **IPFS/Filecoin** (decentralized storage)  
+
+---
+
+## 6. Layer 2 & Scaling Tools  
+1. **Arbitrum** (Optimistic Rollup deployment)  
+2. **Optimism** (EVM-equivalent Rollup)  
+3. **zkSync Era** (ZK-Rollup with Solidity support)  
+4. **Polygon zkEVM** (ZK-Rollup for Ethereum compatibility)  
+
+### Bridging:  
+1. **LayerZero** (cross-chain messaging)  
+2. **Wormhole** (asset bridging between L1/L2)  
+<br/>
+
+<br/>
+
+## Github Stats
+
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ShayanHasanKhan0&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShayanHasanKhan0&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>
+
+<br/>
 
 ## Languages and Tools I have previously worked on (past experience)
+
 <table><tr><td valign="top" width="33%">
 
-### Frontend  
+### Frontend
+
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
@@ -80,7 +159,8 @@ I partner with frontend teams and DevOps engineers to streamline dApp deployment
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
 </div>
 
-### Mobile App Development 
+### Mobile App Development
+
 <div align="center">  
 <a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
@@ -89,8 +169,8 @@ I partner with frontend teams and DevOps engineers to streamline dApp deployment
 
 </td><td valign="top" width="33%">
 
+### Backend
 
-### Backend  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
@@ -106,9 +186,8 @@ I partner with frontend teams and DevOps engineers to streamline dApp deployment
 
 </td><td valign="top" width="33%">
 
+### DevOps
 
-
-### DevOps  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
@@ -119,34 +198,10 @@ I partner with frontend teams and DevOps engineers to streamline dApp deployment
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
 </div>
 
-</td></tr></table>  
+</td></tr></table>
 
-<br/>  
+<br/>
 
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ShayanHasanKhan0&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShayanHasanKhan0&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
+<br/>
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
