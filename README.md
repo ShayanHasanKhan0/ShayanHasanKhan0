@@ -14,7 +14,7 @@
 <a href="https://www.upwork.com/freelancers/~01e54f09c4f2852728?mp_source=share" target="_blank">
 <img src="https://img.shields.io/badge/Upwork-73bb44?style=for-the-badge&logo=upwork&logoColor=black" />
 </a>  
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/13081751/shayan-hasan-khan" target="_blank">
+<a href="https://stackoverflow.com/users/13081751/shayan-hasan-khan" target="_blank">
 <img src="https://img.shields.io/badge/Fiverr-00b22d?style=for-the-badge&logo=fiverr&logoColor=black" />
 </a>
 
